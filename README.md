@@ -20,5 +20,18 @@
 
 ---
 
-[![xfar05 GitHub Stats](https://github-readme-stats.vercel.app/api?username=xfar05&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![xfar05 Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=xfar05&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+<p align="center">
+  <a href="https://github.com/xfar05"><img src="https://github-readme-stats.vercel.app/api?username=xfar05&theme=radical&show_icons=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/xfar05"><img src="https://github-readme-streak-stats.herokuapp.com?user=xfar05&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/xfar05"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xfar05&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/xfar05"><img src="https://github-profile-trophy.vercel.app/?username=xfar05&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p>
