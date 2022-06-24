@@ -1,6 +1,6 @@
-## Hi there, I'm X - Far Dev 👋
+## Hi there, I'm X - Far 👋
 
-<a href="https://github.com/xfar05"><img src="https://cardivo.vercel.app/api?name=X - Far Dev&description=Hi, i'm X - Far Dev and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/09d23565eb7e9979c8a62.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@xfar05_&github=xfar05&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
+<a href="https://github.com/xfar05"><img src="https://cardivo.vercel.app/api?name=X - Farv&description=Hi, i'm X - Far and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/09d23565eb7e9979c8a62.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@xfar05_&github=xfar05&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
 [<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://chat.whatsapp.com/Il3Dpe7nTyZ1X9EneDpXQA)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/xfar05_)
 
